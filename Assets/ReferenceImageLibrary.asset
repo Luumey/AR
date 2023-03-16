@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5761212547121417028
+  m_GuidHigh: 17101707177001213597
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5049482560308487178
+      m_GuidHigh: 5227547437062772394
+    m_SerializedTextureGuid:
+      m_GuidLow: 17241043036851546344
+      m_GuidHigh: 15194833095431910217
+    m_Size: {x: 13, y: 9.75}
+    m_SpecifySize: 1
+    m_Name: Kuutio
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5668310796795053932
+      m_GuidHigh: 597046646578099626
+    m_SerializedTextureGuid:
+      m_GuidLow: 3878943724102528048
+      m_GuidHigh: 15717846997721692552
+    m_Size: {x: 7.5, y: 10}
+    m_SpecifySize: 1
+    m_Name: Kuutio
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5105342566239972219
+      m_GuidHigh: 787898864175029913
+    m_SerializedTextureGuid:
+      m_GuidLow: 3730369473462630686
+      m_GuidHigh: 16213264736360248792
+    m_Size: {x: 1, y: 0.75}
+    m_SpecifySize: 1
+    m_Name: Kuutio
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4689533756603514813
+      m_GuidHigh: 15217919658478170241
+    m_SerializedTextureGuid:
+      m_GuidLow: 6306446553173025173
+      m_GuidHigh: 10143338878499045690
+    m_Size: {x: 0.08, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Kuutio
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5023504144908446631
+      m_GuidHigh: 8582050250323359621
+    m_SerializedTextureGuid:
+      m_GuidLow: 4757189510864759034
+      m_GuidHigh: 3739370717747059784
+    m_Size: {x: 0.5, y: 0.5019608}
+    m_SpecifySize: 1
+    m_Name: Kuutio
+    m_Texture: {fileID: 0}
